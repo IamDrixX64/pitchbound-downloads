@@ -1,0 +1,56 @@
+name: Retour de test PITCHBOUND
+description: Signaler un problème, une difficulté ou une suggestion pendant la pré-alpha.
+title: "[Pré-alpha] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de contribuer aux premiers tests de PITCHBOUND.
+        Ce retour sera public : évite les informations personnelles et ne joins pas ta sauvegarde complète.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Type de retour
+      options:
+        - Problème ou blocage
+        - Interface ou compréhension
+        - Rythme ou équilibre de la carrière
+        - Suggestion
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version du jeu
+      description: Visible dans À propos, depuis l'accueil.
+      placeholder: 0.1.0 — pré-alpha.1
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Comment lances-tu le jeu ?
+      options:
+        - Installateur Windows
+        - Archive portable ZIP
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Que voulais-tu faire ?
+      description: Indique l'écran ou le moment de la carrière concerné.
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: Que s'est-il passé ?
+      description: Décris les étapes et ce que tu attendais. Une capture sans informations personnelles peut aider.
+    validations:
+      required: true
+  - type: textarea
+    id: restart
+    attributes:
+      label: Informations complémentaires
+      description: Version de Windows, fréquence du problème et résultat après fermeture puis reprise, si tu as pu essayer.

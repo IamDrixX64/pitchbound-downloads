@@ -1,0 +1,15 @@
+# This repository contains the public website and tester documentation only.
+# Distributed game binaries are attached to GitHub Releases, never committed.
+*.exe
+*.zip
+*.msi
+*.msix
+*.log
+.env
+.env.*
+node_modules/
+outputs/
+archives/
+releases/
+.DS_Store
+Thumbs.db
