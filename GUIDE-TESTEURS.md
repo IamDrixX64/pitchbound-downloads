@@ -13,6 +13,8 @@ L’installateur peut télécharger Microsoft WebView2 s’il manque. La version
 
 Les [notes de la version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.0-prealpha.1) accompagnent ces fichiers.
 
+Le fichier **THIRD-PARTY-NOTICES.txt**, fourni avec le ZIP et l’installation, regroupe les notices des composants tiers. Il est aussi [consultable dans cette release](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/THIRD-PARTY-NOTICES.txt).
+
 ## Commencer ton histoire
 
 Crée ton joueur, découvre ses premiers souvenirs et vis le prologue avant de rejoindre son club à 14 ans. Le tableau de bord présente les prochaines décisions. Les autres rubriques permettent de retrouver ton programme, la compétition, ton club, ton joueur et ta vie personnelle. L’aide du jeu explique l’interface.

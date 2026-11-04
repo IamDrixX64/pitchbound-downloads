@@ -9,14 +9,14 @@
   "downloads": [
     {
       "name": "PITCHBOUND-Setup.exe",
-      "bytes": 2945442,
-      "sha256": "d53ffae020f5095792b4e5efc60e4ff54503eccda4a89ffd6eb5c64f81d0b906",
+      "bytes": 2984427,
+      "sha256": "fec570b3c982b326b10ce17d9ffbf5ff56adacd2c1b8c5ff859cd4ac1dde866f",
       "url": "https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Setup.exe"
     },
     {
       "name": "PITCHBOUND-Windows-x64.zip",
-      "bytes": 3704607,
-      "sha256": "8471f6e25427b1b49f111036389cc4910b94d31d510ae6384e8b193d5bf65058",
+      "bytes": 3911419,
+      "sha256": "ccf07b45511332dd040fc5d068a9d264d1939af579d42ac94cff3b3999522e1d",
       "url": "https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Windows-x64.zip"
     }
   ]
