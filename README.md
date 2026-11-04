@@ -8,18 +8,18 @@ Ce dépôt regroupe les téléchargements Windows, le guide et les retours de la
 
 ## Télécharger
 
-Version **0.1.0-prealpha.1** · Windows 64 bits.
+Version **0.1.1-prealpha.1** · Windows 64 bits.
 
-- [Installateur Windows — PITCHBOUND-Setup.exe](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Setup.exe)
-- [Archive portable — PITCHBOUND-Windows-x64.zip](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Windows-x64.zip)
-- [Notes de cette version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.0-prealpha.1)
+- [Installateur Windows — PITCHBOUND-Setup.exe](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Setup.exe)
+- [Archive portable — PITCHBOUND-Windows-x64.zip](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Windows-x64.zip)
+- [Notes de cette version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.1-prealpha.1)
 - [Page de présentation](https://iamdrixx64.github.io/pitchbound-downloads/)
 
 L’installateur peut télécharger Microsoft WebView2 s’il manque. La version portable nécessite WebView2 déjà installé. Le jeu fonctionne ensuite hors ligne. Cette pré-alpha n’est pas signée numériquement ; Windows peut afficher un avertissement de sécurité. Les téléchargements sont accessibles sans compte GitHub.
 
 ## Ce qui est jouable
 
-Crée ton joueur, découvre son enfance et son prologue, puis traverse les trois saisons de lycée et la première année universitaire. Le jeu est encore en construction : des bugs et des éléments à affiner sont possibles. La suite de la carrière et les autres parcours sont en développement.
+Crée ton joueur, découvre son enfance et son prologue, puis traverse les trois saisons de lycée et les deux premières années universitaires, jusqu’au bilan à 18 ans. Le jeu est encore en construction : des bugs et des éléments à affiner sont possibles. Après le bilan de première année, poursuis dans ton club actuel pour préparer et jouer la deuxième. La troisième année à 19 ans, les transferts universitaires et les autres parcours restent en développement.
 
 Une seule carrière est active à la fois, avec sauvegarde automatique. Ferme le jeu avant une mise à jour. Pour continuer ton histoire, choisis **Reprendre ma carrière** ; **Nouvelle carrière** remplace la carrière en cours après confirmation.
 

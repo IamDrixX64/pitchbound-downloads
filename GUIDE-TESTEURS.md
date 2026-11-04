@@ -1,25 +1,25 @@
 # Bien démarrer avec PITCHBOUND
 
-Un jeu de **Drixx** · Pré-alpha **0.1.0-prealpha.1** · Windows 64 bits.
+Un jeu de **Drixx** · Pré-alpha **0.1.1-prealpha.1** · Windows 64 bits.
 
 ## Installer ou lancer
 
 Deux formats sont disponibles pour la même version :
 
-1. **[PITCHBOUND-Setup.exe](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Setup.exe)** : ouvre l’installateur, suis ses étapes puis lance PITCHBOUND depuis le menu Démarrer.
-2. **[PITCHBOUND-Windows-x64.zip](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Windows-x64.zip)** : extrais tout le contenu dans un dossier, puis ouvre **PITCHBOUND.exe** dans ce dossier.
+1. **[PITCHBOUND-Setup.exe](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Setup.exe)** : ouvre l’installateur, suis ses étapes puis lance PITCHBOUND depuis le menu Démarrer.
+2. **[PITCHBOUND-Windows-x64.zip](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Windows-x64.zip)** : extrais tout le contenu dans un dossier, puis ouvre **PITCHBOUND.exe** dans ce dossier.
 
 L’installateur peut télécharger Microsoft WebView2 s’il manque. La version portable nécessite WebView2 déjà installé. Le jeu fonctionne ensuite hors ligne. Cette pré-alpha n’est pas signée numériquement ; Windows peut afficher un avertissement de sécurité. Les téléchargements sont accessibles sans compte GitHub.
 
-Les [notes de la version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.0-prealpha.1) accompagnent ces fichiers.
+Les [notes de la version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.1-prealpha.1) accompagnent ces fichiers.
 
-Le fichier **THIRD-PARTY-NOTICES.txt**, fourni avec le ZIP et l’installation, regroupe les notices des composants tiers. Il est aussi [consultable dans cette release](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/THIRD-PARTY-NOTICES.txt).
+Le fichier **THIRD-PARTY-NOTICES.txt**, fourni avec le ZIP et l’installation, regroupe les notices des composants tiers. Il est aussi [consultable dans cette release](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/THIRD-PARTY-NOTICES.txt).
 
 ## Commencer ton histoire
 
 Crée ton joueur, découvre ses premiers souvenirs et vis le prologue avant de rejoindre son club à 14 ans. Le tableau de bord présente les prochaines décisions. Les autres rubriques permettent de retrouver ton programme, la compétition, ton club, ton joueur et ta vie personnelle. L’aide du jeu explique l’interface.
 
-Cette version permet de jouer les trois saisons de lycée et la première année universitaire. La suite de la carrière et les autres parcours sont encore en développement. Des bugs et des éléments à affiner sont possibles : cette pré-alpha est une étape de travail.
+Cette version permet de jouer les trois saisons de lycée et les deux premières années universitaires, jusqu’au bilan à 18 ans. Après le bilan complet de première année, choisis « Préparer ma deuxième année » pour continuer dans ton club actuel. Tes acquis, tes relations et tes études continuent ; le coach décide toujours de ta place. La version s’arrête au bilan de deuxième année : la troisième année à 19 ans et les transferts universitaires ne sont pas encore jouables. Des bugs et des éléments à affiner sont possibles : cette pré-alpha est une étape de travail.
 
 ## Sauvegarder, reprendre et mettre à jour
 
@@ -41,4 +41,4 @@ Les remarques sur la lisibilité, le rythme et l’immersion sont les bienvenues
 
 Un compte GitHub est nécessaire pour publier un retour sur le site. Tu peux aussi transmettre ton retour directement à Drixx.
 
-[Retour à la présentation](https://iamdrixx64.github.io/pitchbound-downloads/) · [Téléchargements de cette version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.0-prealpha.1)
+[Retour à la présentation](https://iamdrixx64.github.io/pitchbound-downloads/) · [Téléchargements de cette version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.1-prealpha.1)

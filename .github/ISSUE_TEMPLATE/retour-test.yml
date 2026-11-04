@@ -23,7 +23,7 @@ body:
     attributes:
       label: Version du jeu
       description: Visible dans À propos, depuis l'accueil.
-      placeholder: 0.1.0 — pré-alpha.1
+      placeholder: 0.1.1 — pré-alpha.1
     validations:
       required: true
   - type: dropdown

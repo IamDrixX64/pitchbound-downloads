@@ -1,23 +1,23 @@
 {
   "name": "PITCHBOUND",
   "author": "Drixx",
-  "version": "0.1.0-prealpha.1",
+  "version": "0.1.1-prealpha.1",
   "channel": "pre-alpha",
   "publishedOn": "2026-11-04",
   "platform": "Windows x64",
-  "tag": "v0.1.0-prealpha.1",
+  "tag": "v0.1.1-prealpha.1",
   "downloads": [
     {
       "name": "PITCHBOUND-Setup.exe",
-      "bytes": 2984427,
-      "sha256": "fec570b3c982b326b10ce17d9ffbf5ff56adacd2c1b8c5ff859cd4ac1dde866f",
-      "url": "https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Setup.exe"
+      "bytes": 2988350,
+      "sha256": "2055fd667af607d46477a76d7e087bf91c58c69434735c4b4492775ee2925a43",
+      "url": "https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Setup.exe"
     },
     {
       "name": "PITCHBOUND-Windows-x64.zip",
-      "bytes": 3911419,
-      "sha256": "ccf07b45511332dd040fc5d068a9d264d1939af579d42ac94cff3b3999522e1d",
-      "url": "https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.0-prealpha.1/PITCHBOUND-Windows-x64.zip"
+      "bytes": 3916522,
+      "sha256": "32d1d744390a397f55446ffdf3838edfb2e0c676d5b96f75ddf6d41cb98a05b7",
+      "url": "https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Windows-x64.zip"
     }
   ]
 }
