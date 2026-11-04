@@ -1,19 +1,18 @@
 # Bien démarrer avec PITCHBOUND
 
-Un jeu de **Drixx** · Pré-alpha **0.1.1-prealpha.1** · Windows 64 bits.
+Un jeu de **Drixx** · Jeu **0.1.1** · Archive de test **0.1.1-prealpha.2** · Windows 64 bits.
 
-## Installer ou lancer
+## Extraire et lancer le ZIP
 
-Deux formats sont disponibles pour la même version :
+Les tests actuels utilisent uniquement l’archive portable **[PITCHBOUND-Windows-x64.zip](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.2/PITCHBOUND-Windows-x64.zip)**. Extrais **tout son contenu** dans un dossier, puis ouvre **PITCHBOUND.exe** depuis ce dossier. Ne lance pas le jeu directement depuis le ZIP.
 
-1. **[PITCHBOUND-Setup.exe](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Setup.exe)** : ouvre l’installateur, suis ses étapes puis lance PITCHBOUND depuis le menu Démarrer.
-2. **[PITCHBOUND-Windows-x64.zip](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/PITCHBOUND-Windows-x64.zip)** : extrais tout le contenu dans un dossier, puis ouvre **PITCHBOUND.exe** dans ce dossier.
+Microsoft WebView2 doit déjà être installé. Le jeu fonctionne ensuite hors ligne. Cette pré-alpha n’est pas signée numériquement ; Windows peut afficher un avertissement de sécurité, y compris avec le ZIP. Sur un PC professionnel, respecte les consignes de ton service informatique. Le téléchargement est accessible sans compte GitHub.
 
-L’installateur peut télécharger Microsoft WebView2 s’il manque. La version portable nécessite WebView2 déjà installé. Le jeu fonctionne ensuite hors ligne. Cette pré-alpha n’est pas signée numériquement ; Windows peut afficher un avertissement de sécurité. Les téléchargements sont accessibles sans compte GitHub.
+Cette révision change uniquement le paquet de test : le jeu reste en version 0.1.1. Un installateur signé est prévu ultérieurement.
 
-Les [notes de la version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.1-prealpha.1) accompagnent ces fichiers.
+Les [notes de la version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.1-prealpha.2) accompagnent ces fichiers.
 
-Le fichier **THIRD-PARTY-NOTICES.txt**, fourni avec le ZIP et l’installation, regroupe les notices des composants tiers. Il est aussi [consultable dans cette release](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.1/THIRD-PARTY-NOTICES.txt).
+Le fichier **THIRD-PARTY-NOTICES.txt**, fourni dans le ZIP, regroupe les notices des composants tiers. Il est aussi [consultable dans cette release](https://github.com/IamDrixX64/pitchbound-downloads/releases/download/v0.1.1-prealpha.2/THIRD-PARTY-NOTICES.txt).
 
 ## Commencer ton histoire
 
@@ -27,7 +26,7 @@ La progression est sauvegardée automatiquement. Une seule carrière est active 
 
 - Pour retrouver ton joueur, utilise **Reprendre ma carrière**.
 - **Nouvelle carrière** remplace la carrière en cours après confirmation ; ce bouton ne sert pas à reprendre la partie.
-- Ferme le jeu avant d’installer une nouvelle version ou de remplacer l’exécutable. Rouvre ensuite PITCHBOUND et reprends ta carrière.
+- Ferme le jeu avant de remplacer les fichiers par ceux d’une nouvelle archive extraite. Rouvre ensuite PITCHBOUND et reprends ta carrière.
 
 ## Faire un retour
 
@@ -41,4 +40,4 @@ Les remarques sur la lisibilité, le rythme et l’immersion sont les bienvenues
 
 Un compte GitHub est nécessaire pour publier un retour sur le site. Tu peux aussi transmettre ton retour directement à Drixx.
 
-[Retour à la présentation](https://iamdrixx64.github.io/pitchbound-downloads/) · [Téléchargements de cette version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.1-prealpha.1)
+[Retour à la présentation](https://iamdrixx64.github.io/pitchbound-downloads/) · [Téléchargements de cette version](https://github.com/IamDrixX64/pitchbound-downloads/releases/tag/v0.1.1-prealpha.2)
